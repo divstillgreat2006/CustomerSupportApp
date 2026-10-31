@@ -55,9 +55,9 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-## Customer Support Features
+## Development Setup
 
-- Submit customer support requests.
-- Select and preview a screenshot.
-- Upload screenshots using Cloudinary.
-- Send support requests through EmailJS. 
+1. Install the required project dependencies.
+2. Create a local .env file using the required environment variables.
+3. Configure Cloudinary and EmailJS.
+4. Start the Expo development server.
